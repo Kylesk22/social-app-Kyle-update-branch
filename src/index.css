@@ -1,0 +1,16 @@
+
+.tabHome{
+  background-image: url("https://preview.redd.it/yi8qrrdoxzr71.png?width=512&format=png&auto=webp&s=1dd0753cd9bc1f50964a8ecc55f16229d113d896");
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 500px;
+
+}
+body {
+  background-color: white;
+  color: black;
+}
+h1 {
+  color: black;
+}
