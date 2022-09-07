@@ -15,10 +15,11 @@ const MyProfile = () => {
         </div>
         <div className="container">
             <div className='row'>
-                <div className='col-8'>
-                    About Me
+                <div className='col-7' id="aboutMe">
+                    <h1>About Me</h1>
                 </div>
-                <div className='col-4'>
+                <div className='col-1'></div>
+                <div className='col-4' id="cal">
                     <MyCalendar />
                 </div>      
             </div>
