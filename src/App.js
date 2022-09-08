@@ -5,7 +5,7 @@ import SpotterNav from './Components/Navbar/Navbar';
 import ProfilePic from './Components/ProfilePicture/ProfilePicture';
 import NavTabs from './Components/Navbar/NavTabs';
 import MyProfile from './Pages/MyProfile/MyProfile';
-
+import Nutrition from './Pages/Nutrition/Nutrition';
 import Home from './Pages/Home/Home';
 
 
@@ -18,6 +18,8 @@ function App() {
     case "/MyProfile":
     selectPage = <MyProfile />;
     break;
+    case "/Nutrition":
+    selectPage = <Nutrition />
   }
   return (
     <div className="App" id="App">

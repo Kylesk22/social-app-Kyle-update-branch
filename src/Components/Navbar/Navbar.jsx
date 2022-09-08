@@ -20,7 +20,7 @@ const SpotterNav = () => {
           </a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="/">Features</a>
+          <a className="nav-link" href="/Nutrition">Nutrition</a>
         </li>
         <li className="nav-item">
           <a className="nav-link" href="#">Pricing</a>
