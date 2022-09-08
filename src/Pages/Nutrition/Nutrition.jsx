@@ -1,4 +1,5 @@
 import React from "react";
+
 import "./Nutrition.css";
 
 const Nutrition = () => {
@@ -7,6 +8,7 @@ const Nutrition = () => {
         <div>
             <h1>Nutrition</h1>
         </div>
+
     )
 }
 
