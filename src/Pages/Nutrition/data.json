@@ -1,0 +1,20 @@
+[
+    {
+        "food": "Egg",
+        "quantity": "One Large",   
+        "protein": "6g",
+        "calories": "78"
+    },
+    {
+        "food": "Chicken",
+        "quantity": "140g",
+        "protein": "38g",
+        "calories": "78"
+    },
+    {
+        "food": "Salmon",
+        "quantity": "198g",
+        "protein": "40g",
+        "calories": "412"
+    }
+]
